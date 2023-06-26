@@ -1,4 +1,4 @@
 Flask==2.1.0
 psycopg2-binary==2.9.5
 PyJWT==2.1.0
-gunicorn==
+gunicorn==20.1.0
